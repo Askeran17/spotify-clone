@@ -20,6 +20,21 @@ The project was deployed using [Netlify](https://www.netlify.com/). Simply conne
 - Audio player controls (play, pause, next, previous)
 - Smooth navigation using React Router
 
+## Future Features
+
+Here are some ideas for future improvements to make this a full-stack, production-ready project:
+
+- Implement a search functionality for songs, albums, and artists
+- Allow users to create and manage playlists
+- Add podcast browsing and playback
+- Enable Explore Premium features
+- Support app installation (PWA)
+- Add the ability to save songs and albums to the user library
+- Implement user authentication and profiles
+- Integrate a backend for storing user data and playlists
+- Real-time music streaming and playback sync
+- Social features (follow friends, share playlists)
+
 ## Technologies Used
 
 - React
